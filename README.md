@@ -1,6 +1,6 @@
 <main>
 <h1>ROYAL 2048 Privacy Policy</h1>
-<p class="muted">Effective date: [set the actual publication date]</p>
+<p class="muted">Effective date: [November 16, 2026]</p>
 <p>ROYAL 2048 is provided by ren wu (“we”, “us”). This policy explains how information is handled when you play the game, use advertising and purchase features, or contact us. For privacy questions, contact <a href="mailto:joygame_support@126.com">joygame_support@126.com</a>.</p>
 
 <h2>1. Information stored by the game</h2>
