@@ -1,20 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex">
-<title>ROYAL 2048 — Privacy Policy Draft</title>
-<style>
-body{max-width:800px;margin:40px auto;padding:0 22px;font:17px/1.65 system-ui,sans-serif;color:#172640;background:#fff}
-h1,h2{line-height:1.25}h2{margin-top:2em}a{color:#0759ad}.draft{padding:20px;background:#fff4cf;border:2px solid #c18716;border-radius:8px}.muted{color:#536277}
-</style>
-</head>
-<body>
-<aside class="draft">
-<strong>UNPUBLISHED DRAFT — prepared November 12, 2026</strong>
-<p>This draft describes the intended public release and is not yet the final policy. Before publishing, confirm the legal developer name, effective date, installed SDK versions and their data practices, consent and privacy controls, retention obligations, and consistency with App Store privacy disclosures. Confirm the in-app policy link and the support page work. Remove this notice, the draft title and the noindex tag only after review.</p>
-</aside>
 <main>
 <h1>ROYAL 2048 Privacy Policy</h1>
 <p class="muted">Effective date: [set the actual publication date]</p>
